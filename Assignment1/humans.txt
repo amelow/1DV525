@@ -1,0 +1,15 @@
+/* AUTHOR */
+
+Name: Amelie Löwe
+Email: al223zw@student.lnu.se
+Purpose: This is my contribution for assignment 1 in the Introduction to web programming course.
+Date: 2018-08-19
+
+/* META */
+
+Built with: Visual Studio, HTML, and CSS
+
+/* THANKS */
+
+Special thanks to my friends Björne and Christian, who made our study sessions extra fun.
+And also my boyfriend Johan who fed me pasta while I was trying to figure this out.
