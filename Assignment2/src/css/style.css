@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat|Slabo+27px);
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: cadetblue;
+}
+
+#userInput{
+    display: none;
+    text-align: center;
+    margin: 0 auto;
+}
+
+input[type=radio]{
+    display: none;
+}
+#container{
+    width: 500px;
+    margin: 0 auto;
+    display: none;
+    text-align: center; 
+    font-family:'Montserrat', sans-serif; 
+    text-align: center;  
+}
+#reloadButton{
+    display: none;
+}
+#startPage{
+    display: inline-block;
+    font-family:'Montserrat', sans-serif; 
+    text-align: center; 
+}
