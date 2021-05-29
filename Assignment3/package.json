@@ -31,7 +31,7 @@
   "dependencies": {
     "devpun": "^1.2.0",
     "give-me-a-joke": "^0.1.2",
-    "ws": "^6.1.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "css-loader": "^1.0.0",
